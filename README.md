@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Uno](#uno-y-uno)
 - [Dos](#dos-y-dos)
--   [Dos punto uno](#sub-dos-uno)
+  - [Dos punto uno](#sub-dos-uno)
   
 
 ## UNO y UNO
