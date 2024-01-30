@@ -1,7 +1,7 @@
 # README
 
 Table of contents
-- [One](#UNO_y_UNO)
+- [One](#UNO%20y%20UNO)
 - [Two](#DOS_y_DOS)
 
 ## UNO y UNO
