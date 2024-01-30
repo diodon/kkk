@@ -1,8 +1,8 @@
 # README
 
 Table of contents
-- [One](#UNO y UNO)
-- [Two](#DOS y DOS)
+- [One](#UNO_y_UNO)
+- [Two](#DOS_y_DOS)
 
 ## UNO y UNO
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in neque luctus, accumsan mi nec, iaculis lorem. In suscipit accumsan condimentum. Donec finibus varius dictum. Aenean ornare enim tortor, sed tristique lacus rutrum sed. In hac habitasse platea dictumst. Ut pulvinar dignissim augue. Cras nec hendrerit dolor. In vel mauris sed leo aliquet cursus.
